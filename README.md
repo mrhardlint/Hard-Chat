@@ -224,13 +224,7 @@ Key point to understand: **encryption protects content, not connection metadata*
 
 ---
 
-## 💚 Support the Project
 
-Hard-Chat is 100% free, open-source, and maintained by the Hardlint Cybersecurity Team. We don't run ads and we don't sell data. If you believe in our mission and want to help us fund our future self-hosted infrastructure (custom STUN/TURN servers), consider supporting us!
-
-**Solana (SOL) donation address:**
-```
-GSsqZCtDC7rf53U6gC5cJ4weAYYT9g7twxz9t15mfRDV
 ```
 
 ---
